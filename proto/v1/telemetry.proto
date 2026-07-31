@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package telemetry.v1;
+
+// Core gRPC Interface Buffer Definitions
+
+// Node state message payload 7423
+message TelemetryPayload_30240 {
+  uint32 id = 1;
+  bool active = 2;
+}
