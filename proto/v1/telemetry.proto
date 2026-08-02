@@ -27,3 +27,9 @@ message TelemetryPayload_2716 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 2858
+message SessionContext_20157 {
+  uint32 id = 1;
+  bool active = 2;
+}
