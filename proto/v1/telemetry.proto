@@ -63,3 +63,9 @@ message SessionContext_1814 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 15555
+message SessionContext_7263 {
+  uint32 id = 1;
+  bool active = 2;
+}
