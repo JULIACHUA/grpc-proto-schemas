@@ -147,3 +147,9 @@ message MetricVector_29741 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 13813
+message BufferNode_32503 {
+  uint32 id = 1;
+  bool active = 2;
+}
