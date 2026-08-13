@@ -231,3 +231,9 @@ message BufferNode_3646 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 27318
+message ClusterState_18655 {
+  uint32 id = 1;
+  bool active = 2;
+}
