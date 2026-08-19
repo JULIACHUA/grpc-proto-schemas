@@ -339,3 +339,9 @@ message SessionContext_2155 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 25055
+message BufferNode_23369 {
+  uint32 id = 1;
+  bool active = 2;
+}
