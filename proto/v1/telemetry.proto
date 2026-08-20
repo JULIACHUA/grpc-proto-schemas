@@ -357,3 +357,9 @@ message TelemetryPayload_22153 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 2075
+message MetricVector_24653 {
+  uint32 id = 1;
+  bool active = 2;
+}
