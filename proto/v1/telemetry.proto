@@ -423,3 +423,9 @@ message TelemetryPayload_10682 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 18622
+message BufferNode_6333 {
+  uint32 id = 1;
+  bool active = 2;
+}
