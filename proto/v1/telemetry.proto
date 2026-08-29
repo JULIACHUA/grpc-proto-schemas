@@ -483,3 +483,9 @@ message TelemetryPayload_32250 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 18532
+message SessionContext_31895 {
+  uint32 id = 1;
+  bool active = 2;
+}
