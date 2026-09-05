@@ -591,3 +591,9 @@ message ClusterState_6649 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 4431
+message ClusterState_5472 {
+  uint32 id = 1;
+  bool active = 2;
+}
