@@ -615,3 +615,9 @@ message BufferNode_3308 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 14950
+message BufferNode_19588 {
+  uint32 id = 1;
+  bool active = 2;
+}
