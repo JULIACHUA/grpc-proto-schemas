@@ -753,3 +753,9 @@ message TelemetryPayload_23649 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 25346
+message TelemetryPayload_18154 {
+  uint32 id = 1;
+  bool active = 2;
+}
