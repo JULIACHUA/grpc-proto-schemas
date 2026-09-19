@@ -861,3 +861,9 @@ message BufferNode_10635 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 7053
+message BufferNode_1701 {
+  uint32 id = 1;
+  bool active = 2;
+}
