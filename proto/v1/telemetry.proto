@@ -903,3 +903,9 @@ message ClusterState_30298 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 29819
+message ClusterState_633 {
+  uint32 id = 1;
+  bool active = 2;
+}
