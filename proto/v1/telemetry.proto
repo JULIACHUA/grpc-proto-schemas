@@ -1185,3 +1185,9 @@ message ClusterState_21254 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 10356
+message TelemetryPayload_21779 {
+  uint32 id = 1;
+  bool active = 2;
+}
