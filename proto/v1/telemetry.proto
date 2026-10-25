@@ -1437,3 +1437,9 @@ message SessionContext_3769 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 18991
+message MetricVector_31070 {
+  uint32 id = 1;
+  bool active = 2;
+}
