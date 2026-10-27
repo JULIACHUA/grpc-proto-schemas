@@ -1467,3 +1467,9 @@ message MetricVector_32053 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 26072
+message ClusterState_774 {
+  uint32 id = 1;
+  bool active = 2;
+}
