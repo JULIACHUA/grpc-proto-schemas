@@ -1647,3 +1647,9 @@ message ClusterState_15099 {
   uint32 id = 1;
   bool active = 2;
 }
+
+// Node state message payload 6108
+message SessionContext_9742 {
+  uint32 id = 1;
+  bool active = 2;
+}
